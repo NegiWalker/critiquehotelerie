@@ -1,0 +1,4 @@
+body{background: white;color:black;text-align:center;font-family:"sans"; box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;}
+header{background: gold; box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;}
+footer{background: blue; box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px; border-radius: 10px 100px / 120px;}
+section{box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px; border-radius: 10px; margin-bottom : 50px;}
